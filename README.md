@@ -1,6 +1,6 @@
 # ScrollApp for iOS
 
-iPhone port of [ScrollApp](../ScrollApp): one vertical feed mixing **YouTube Shorts, Instagram Reels
+iPhone port of [ScrollApp](https://github.com/forge-sa/ScrollApp-android): one vertical feed mixing **YouTube Shorts, Instagram Reels
 and TikToks**, with autoscroll, ad/filler skipping, like and repost buttons, and scrolling statistics.
 
 > **Status:** written on Linux, where iOS apps can't be built. All Swift files pass a Swift 5.10 syntax
